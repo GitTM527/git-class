@@ -1,3 +1,4 @@
+// git all done neccessary
 // git command:
 // git init
 //git add index.js
